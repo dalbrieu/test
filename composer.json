@@ -1,0 +1,10 @@
+{
+    "name": "albri/testlib",
+    "description": "Test de librer\u0000a",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lic\\Test\\": "src"
+        }
+    }
+}
